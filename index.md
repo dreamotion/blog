@@ -1,10 +1,3 @@
----
-title: Blog Test
-layout: post
----
+## Dreamotion Blog Pages
 
-# Dreamotion Blog
-
-## 두번째 제목
-
-Hahaha
+Use 'gh-pages' branch for updating blog posts.
