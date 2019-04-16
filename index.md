@@ -1,5 +1,5 @@
 ---
-title: 블로그 테스트
+title: Blog Test
 layout: post
 ---
 
