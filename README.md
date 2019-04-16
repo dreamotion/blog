@@ -1,3 +1,3 @@
-## Dreamotion Blog Pages
+## Dreamotion Blog
 
-Use 'gh-pages' branch for updating blog posts.
+Project pages for Dreamotion Blog on GitHub Pages
