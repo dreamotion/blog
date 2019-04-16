@@ -3,9 +3,7 @@ title: Blog Test
 layout: post
 ---
 
-Here is my page.
+# Dreamotion Blog
 
-## Dreamotion Blog
-
-# 두번째 제목
+## 두번째 제목
 
